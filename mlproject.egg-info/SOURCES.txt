@@ -9,6 +9,10 @@ mlproject.egg-info/notebook/data/EDA STUDENT PERFORMANCE.ipynb
 mlproject.egg-info/notebook/data/MODEL TRAINING.ipynb
 mlproject.egg-info/notebook/data/mlproject-main+(2).zip
 mlproject.egg-info/notebook/data/stud.csv
+mlproject.egg-info/notebook/data/catboost_info/catboost_training.json
+mlproject.egg-info/notebook/data/catboost_info/learn_error.tsv
+mlproject.egg-info/notebook/data/catboost_info/time_left.tsv
+mlproject.egg-info/notebook/data/catboost_info/learn/events.out.tfevents
 src/__init__.py
 src/exception.py
 src/logger.py
